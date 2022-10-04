@@ -77,3 +77,4 @@ void monty_queue(stack_t **stack, unsigned int line_number)
 {
 	(*stack)->n = QUEUE;
 	(void)line_number;
+}
