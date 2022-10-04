@@ -163,3 +163,4 @@ char *get_next_word(char *str, char *delims)
 		i++;
 	}
 	return (str + i);
+}
