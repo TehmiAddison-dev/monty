@@ -166,3 +166,4 @@ int run_monty(FILE *script_fd)
 
 	free(line);
 	return (exit_status);
+}
