@@ -63,3 +63,4 @@ int check_mode(stack_t *stack)
 	else if (stack->n == QUEUE)
 		return (QUEUE);
 	return (2);
+}
