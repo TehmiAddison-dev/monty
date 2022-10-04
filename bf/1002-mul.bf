@@ -1,4 +1,4 @@
-The following is the program in one line.
+[ The following is the program in one line.
 NULL
 End Comment ]
 ,                a0 add x  getchar()     Only reads the first character
