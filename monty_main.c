@@ -26,3 +26,4 @@ int main(int argc, char **argv)
 	exit_code = run_monty(script_fd);
 	fclose(script_fd);
 	return (exit_code);
+}
